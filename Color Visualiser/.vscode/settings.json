@@ -1,0 +1,11 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "ms-vsliveshare.vsliveshare"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "ms-vsliveshare.vsliveshare"
+  }
+}
